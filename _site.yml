@@ -8,7 +8,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<r.spriggs@columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/Rae-Spr/
+      href: http://github.com/Rae-Spr
 output:
   html_document:
     theme: cerulean
