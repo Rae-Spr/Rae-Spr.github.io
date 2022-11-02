@@ -7,8 +7,10 @@ navbar:
       href: about.html
     - icon: fa-envelope fa-lg
       href: mailto:<r.spriggs@columbia.edu>
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/rae-spriggs/
     - icon: fa-github fa-lg
       href: http://github.com/Rae-Spr
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo

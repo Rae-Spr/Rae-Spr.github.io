@@ -1,15 +1,32 @@
 ---
-title: "About me"
+title: "About Rae Spriggs"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# Rae Spriggs
-## PhD Student at Columbia University
-### Climate and Health
+### PhD Student at Columbia University (current role)
 
-Rae Spriggs began her PhD in Fall 2022. Rae is originally from San Diego, CA, but has also lived in the Bay Area and Los Angeles. She received her BA from UC Berkeley in 2016 and MPH from UCLA in 2019. Before joining Mailman, she served as the Manager of Climate Action Research at the UCLA Luskin Center for Innovation. There she facilitated the center's climate action and extreme heat research through strategic partnerships and engagement with policymakers, advocates, and impacted communities. As a PhD student, Rae plans to explore the intersection of extreme heat and other climate-related exposures, neighborhood conditions including historical environmental injustice, and mental health outcomes. 
+Rae Spriggs began her Environmental Health Sciences PhD in Fall 2022. Her current research is exploring and characterizing multiple environmental exposures at correctional facilities across the United States. In her future dissertation research, Rae plans to explore the intersection of extreme heat and other climate-related exposures, neighborhood conditions including historical environmental injustice, and mental health outcomes. 
+
+### Educational background
+
+* Environmental Health Sciences MPH - University of California, Los Angeles (2019) 
+* BA in Public Health - University of California, Berkeley (2016)
+
+### Previous professional appointments
+
+* Manager of Climate Action Research - UCLA Luskin Center for Innovation (2022)
+* Associate Director - UCLA Center for Diverse Leadership in Science (2019-2022)
+* Climate and Equity Researcher - The Environment Initiatives Hub at the Nonprofit Institute (2018-2019)
+* Graduate Student Researcher - Health Impact Assessment Group at the UCLA School of Public Health (2017-2018)
+* Climate Change and Health Equity Research Assistant - San Diego County Health and Human Services Agency (2017)
+* Alumni Outreach Coordinator - FACES for the Future (2016-2017)
 
 
+### Fun facts 
+
+* Rae is originally from San Diego, CA, home of the superior weather.
+* Rae has three beautiful nephews - all three years old and younger. 
+* Rae likes writing, checking out standup comedy, and singing karaoke in her spare time. 

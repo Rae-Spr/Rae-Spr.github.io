@@ -1,0 +1,56 @@
+---
+title: "Restaurant Inspections Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+data("rest_inspec")
+library(plotly)
+library(flexdashboard)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Evaluating whether NYC restaurant scores have improved over time
+
+```{r}
+rest_inspec %>% 
+  filter(score >= 0 )%>% 
+  filter(grade == "A" | grade == "B" | grade == "C")%>% 
+  sample_n(size = 2000) %>% 
+plot_ly(
+    x = ~inspection_date, y = ~score, type = "scatter", mode = "markers",
+    color = ~grade, alpha = 0.5)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Frequency of restaruant scores by borough
+
+```{r}
+rest_inspec %>% 
+  filter(grade == "A" | grade == "B" | grade == "C")%>% 
+  sample_n(size = 10000) %>% 
+  group_by(boro, grade) %>% 
+  plot_ly(x = ~boro, color = ~grade, type = "histogram", colors = "viridis")
+```
+
+### Score distribution of Sweetgreen restaurants in NYC boroughs 
+
+```{r}
+rest_inspec %>% 
+  filter(str_detect(dba, "SWEETGREEN")) %>% 
+  filter(score >= 0 ) %>% 
+  group_by(boro, score) %>% 
+  plot_ly(y = ~score, type = "box", mode = "markers",
+    color = ~boro, colors = "viridis", alpha = 0.5)
+  
+```
+
