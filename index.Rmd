@@ -1,19 +1,21 @@
 ---
-title: "Rae Spriggs"
+title: "Rae Spriggs, MPH"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# Simple yet effective introduction to Rae...
+# Climate and health researcher
 
-![](images/recent headshot 2020.JPG)
+![](images/recent%20headshot%202020.JPG)
 
 ## Resume and short bio
 
-For a brief resume and short bio, head over to my [about me](about.html) page. 
+My work sits at the intersection of climate change, environmental justice, and mental health.
 
-## Check out my plotly dashboard!
+For a brief resume and short bio, head over to my [About Me](about.html) page.
+
+## Once upon a time I made a plotly dashboard
 
 Here's a link to a [Plotly dashboard](Plots_webpage.html) I created!
