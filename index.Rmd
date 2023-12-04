@@ -18,7 +18,7 @@ For a brief resume and short bio (and fun facts), head over to my [About Me](abo
 
 ## Featured in a children's book
 
-Breaking the Mold: Changing the Face of Climate Science (Levy, 2023) profiles 16 diverse climate scientists and I was fortunate enough to be one of them. This is book is for ages 8-12. You can purchase this book for the little ones in your life [here](https://holidayhouse.com/book/breaking-the-mold/)!
+[Breaking the Mold: Changing the Face of Climate Science](https://holidayhouse.com/book/breaking-the-mold/) (Levy, 2023) profiles 16 diverse climate scientists and I was fortunate enough to be one of them. This is book is for ages 8-12. You can purchase this book for the little ones in your life [here](https://holidayhouse.com/book/breaking-the-mold/)!
 
 ## Once upon a time I made a plotly dashboard
 
