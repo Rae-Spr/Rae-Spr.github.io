@@ -16,10 +16,11 @@ My work sits at the intersection of climate change, environmental justice, and m
 
 For a brief resume and short bio (and fun facts), head over to my [About Me](about.html) page.
 
-## Featured in a children's book
+## Featured in a children's book (2023)
 
 [Breaking the Mold: Changing the Face of Climate Science](https://holidayhouse.com/book/breaking-the-mold/) (Levy, 2023) profiles 16 diverse climate scientists and I was fortunate enough to be one of them. This is book is for ages 8-12. You can purchase this book for the little ones in your life [here](https://holidayhouse.com/book/breaking-the-mold/)!
 
-## Once upon a time I made a plotly dashboard
+## Featured in a panel of emerging BIPOC leaders (2021)
 
-Here's a link to a [Plotly dashboard](Plots_webpage.html) I created!
+I was honored to be featured among peers in [The Corps Network's Town Hall: Conversations with Emerging BIPOC Leaders in Conservation and the Environment](https://www.youtube.com/watch?v=bW9d8TnLdpM&ab_channel=TheCorpsNetwork).
+
