@@ -1,5 +1,5 @@
 ---
-title: "Rae Spriggs, MPH"
+title: "Rae Spriggs, MPH, PhD Candidate"
 output: 
   html_document:
     toc: true
